@@ -1,5 +1,5 @@
 foo = 9 
-
+foo = 10
 if foo < 10 
 	puts "foo is less than 10"
 else 
